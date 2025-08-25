@@ -67,7 +67,7 @@ Extend the project to battery level classification (Low/Medium/High).
 Deploy the model as a mobile app for real-time UAV monitoring.
 
 
-## Authors
+## Author
 
 Prerna Sharma
 
